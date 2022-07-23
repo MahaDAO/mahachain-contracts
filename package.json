@@ -6,6 +6,7 @@
   "author": "Steven Enamakel <enamakel@mahadao.com>",
   "license": "MIT",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.7.1",
     "hardhat": "^2.10.1"
   },
   "devDependencies": {
